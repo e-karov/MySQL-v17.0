@@ -1,7 +1,5 @@
 --  1. Report:
 --  How many rows do we have in each table in the employees database?:
-SELECT TABLE_NAME, TABLE_ROWS 
-FROM INFORMATION_SCHEMA.TABLES;
 
 
 -- 2. Report:
